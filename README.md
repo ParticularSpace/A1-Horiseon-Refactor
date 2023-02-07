@@ -1,26 +1,32 @@
-# UCB-project-one
+# A1-Horiseon-Refactor
+
+## URL
+
+https://particularspace.github.io/A1-Horiseon-Refactor/
+
 ## Description
 
-- To create a website where all the information learned in the prework can be accessed.
-- To solve an issues many students have: Information organization, access, and efficiency.
-- Made an easy reading website for prework data.
-- HTML, CSS, JS, Git, and other techniques for building a webpage. 
+A refactor of HTML and CSS elements for Horiseon's webpage. Including clear and concise code, that functions as the original website did. This website's functions are easy to read informations, website navigation, and images.
 
 ## Usage
 
-This website contains sections broken down into HTML, CSS, JavaScript and Git. In the console, we can see that JavaScript running. It will list the topics we learned from prework and choose one topic for us to study first at random. 
-
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+This website helps navigate Horiseon options and services.  
 
 ## Screenshot
 ![A picture of the webpage](Assets/images/particularspace.github.io_A1-Horiseon-Refactor_.png "Horiseon")
 
-##Credits
+## Credits
 Study group: James & Christopher
 UC Berkeley Coding Bootcamp Extension
+
+## License
+
+MIT License
+
+Copyright (c) 2022 JP Padilla
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
